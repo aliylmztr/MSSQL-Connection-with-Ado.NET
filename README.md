@@ -5,11 +5,11 @@ Ado.NET Veri Erişme Teknolojisi ile C# Projesi - MSSQL Server Veritabanı Bağl
 
 <a href="https://www.udemy.com/">Udemy </a>
 
-1. Microsoft SQL Server Management Studio >> "adonet" Veritabanında "loginTable" Tablosu => Design
+1. Microsoft SQL Server Management Studio >> "adonet" Veritabanı "loginTable" Tablosu => Design
 
 ![image](https://github.com/aliylmztr/MSSQL-Connection-with-Ado.NET/assets/123991935/355ce9fb-98fb-4226-9593-120571cf1227)
 
-2. Microsoft SQL Server Management Studio >> "adonet" Veritabanında "loginTable" Tablosu => Edit Top 200 Rows
+2. Microsoft SQL Server Management Studio >> "adonet" Veritabanı "loginTable" Tablosu => Edit Top 200 Rows
 
 ![image](https://github.com/aliylmztr/MSSQL-Connection-with-Ado.NET/assets/123991935/b97b5bf6-78f2-4de3-9e0b-8c785d593704)
 
